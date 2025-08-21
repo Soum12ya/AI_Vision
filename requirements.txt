@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+celery
+redis>=5.0.0
+pillow
+opencv-python
+numpy
+pdfplumber
+pytesseract
+camelot-py[cv]
+tabula-py
+ultralytics
+openai>=1.30.0
+python-dotenv
